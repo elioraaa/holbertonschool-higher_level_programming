@@ -1,3 +1,3 @@
--- script selecting all records from the product
+-- script SELECT ALL RECORDS FROM THE TABLE 
 
-SELECT * FROM product;
+SELECT * FROM first_table;
