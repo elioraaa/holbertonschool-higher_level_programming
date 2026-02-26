@@ -1,3 +1,3 @@
 -- script COUNT OF RECORDS
 
-SELECT COUNT(*) FROM product WHERE ID = 89;
+SELECT COUNT(*) FROM product WHERE id = 89;
