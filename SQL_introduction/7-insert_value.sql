@@ -1,3 +1,3 @@
--- script inserting a new record in the product table
+-- script inserting a new record in the first_table table
 
-INSERT INTO product (id, name) VALUES (89, "Best School");
+INSERT INTO first_table (id, name) VALUES (89, "Best School");
