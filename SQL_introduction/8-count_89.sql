@@ -1,0 +1,3 @@
+-- select COUNT OF RECORDS
+
+SELECT COUNT(*) FROM product WHERE ID = 89;
