@@ -1,0 +1,3 @@
+-- script TO CREATE A TABLE CALLED `first_table` IN THE CURRENT DATABASE
+
+SHOW CREATE TABLE first_table;
